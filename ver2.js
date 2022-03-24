@@ -4,3 +4,6 @@
 // feature1 c2
 // feature1 c3 //added from master after conflict
 // feature2 c1
+//============================
+// feature3-c1
+// feature3-c2
